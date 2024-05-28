@@ -1,5 +1,5 @@
 import React from 'react';
-import ServerButton from '../components/ServerButton';
+import ServerButton from '../ServerButton';
 
 import { Container, Separator } from './styles';
 
